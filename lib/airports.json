@@ -1,0 +1,119 @@
+{
+  "source": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "license": "Public domain",
+  "retrievedAt": "2026-10-27T22:56:41.495Z",
+  "airports": [
+    {
+      "code": "LHR",
+      "name": "London Heathrow Airport",
+      "city": "London",
+      "latitude": 51.470748,
+      "longitude": -0.459909,
+      "country": "GB"
+    },
+    {
+      "code": "BOS",
+      "name": "Boston Logan International Airport",
+      "city": "Boston",
+      "latitude": 42.36197,
+      "longitude": -71.0079,
+      "country": "US"
+    },
+    {
+      "code": "FLL",
+      "name": "Fort Lauderdale Hollywood International Airport",
+      "city": "Fort Lauderdale",
+      "latitude": 26.072599,
+      "longitude": -80.152702,
+      "country": "US"
+    },
+    {
+      "code": "JFK",
+      "name": "John F. Kennedy International Airport",
+      "city": "New York",
+      "latitude": 40.639447,
+      "longitude": -73.779317,
+      "country": "US"
+    },
+    {
+      "code": "LAX",
+      "name": "Los Angeles International Airport",
+      "city": "Los Angeles",
+      "latitude": 33.942501,
+      "longitude": -118.407997,
+      "country": "US"
+    },
+    {
+      "code": "MCO",
+      "name": "Orlando International Airport",
+      "city": "Orlando",
+      "latitude": 28.429399490356445,
+      "longitude": -81.30899810791016,
+      "country": "US"
+    },
+    {
+      "code": "SFO",
+      "name": "San Francisco International Airport",
+      "city": "San Francisco",
+      "latitude": 37.619806,
+      "longitude": -122.374821,
+      "country": "US"
+    },
+    {
+      "code": "CDG",
+      "name": "Charles de Gaulle International Airport",
+      "city": "Paris (Roissy-en-France, Val-d'Oise)",
+      "latitude": 49.00896,
+      "longitude": 2.554117,
+      "country": "FR"
+    },
+    {
+      "code": "CUN",
+      "name": "Cancún International Airport",
+      "city": "Cancún",
+      "latitude": 21.040817,
+      "longitude": -86.87347,
+      "country": "MX"
+    },
+    {
+      "code": "NAS",
+      "name": "Lynden Pindling International Airport",
+      "city": "Nassau",
+      "latitude": 25.039,
+      "longitude": -77.466202,
+      "country": "BS"
+    },
+    {
+      "code": "BGI",
+      "name": "Grantley Adams International Airport",
+      "city": "Bridgetown",
+      "latitude": 13.074667,
+      "longitude": -59.491034,
+      "country": "BB"
+    },
+    {
+      "code": "SJU",
+      "name": "Luis Munoz Marin International Airport",
+      "city": "San Juan",
+      "latitude": 18.4394,
+      "longitude": -66.001801,
+      "country": "PR"
+    },
+    {
+      "code": "AUA",
+      "name": "Queen Beatrix International Airport",
+      "city": "Oranjestad",
+      "latitude": 12.501056,
+      "longitude": -70.014281,
+      "country": "AW"
+    },
+    {
+      "code": "SXM",
+      "name": "Princess Juliana International Airport",
+      "city": "Sint Maarten",
+      "latitude": 18.041,
+      "longitude": -63.108898,
+      "country": "SX"
+    }
+  ]
+}

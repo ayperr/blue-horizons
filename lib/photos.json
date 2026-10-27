@@ -1,0 +1,62 @@
+{
+  "SJU": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Old_San_Juan_01.JPG/960px-2013_Old_San_Juan_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico",
+    "credit": "https://commons.wikimedia.org/wiki/File:2013_Old_San_Juan_01.JPG"
+  },
+  "NAS": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg/960px-Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas",
+    "credit": "https://commons.wikimedia.org/wiki/File:Nassau%2C_Bahamas_aerial_view_(cropped).jpg"
+  },
+  "CUN": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Cancun_Strand_Luftbild_%2822143397586%29.jpg/960px-Cancun_Strand_Luftbild_%2822143397586%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cancun_Strand_Luftbild_(22143397586).jpg"
+  },
+  "AUA": {
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f8/Sightings_in_Oranjestad.jpg/960px-Sightings_in_Oranjestad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Oranjestad",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sightings_in_Oranjestad.jpg"
+  },
+  "SXM": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Philipsburg_and_the_Great_Bay%2C_Sint_Maarten%2C_Caribbean.jpg/960px-Philipsburg_and_the_Great_Bay%2C_Sint_Maarten%2C_Caribbean.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Philipsburg%2C_Sint_Maarten",
+    "credit": "https://commons.wikimedia.org/wiki/File:Philipsburg_and_the_Great_Bay%2C_Sint_Maarten%2C_Caribbean.jpg"
+  },
+  "BGI": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bridgetown_aerial.JPG/960px-Bridgetown_aerial.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Bridgetown",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bridgetown_aerial.JPG"
+  },
+  "LHR": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/London",
+    "credit": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  "CDG": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Paris",
+    "credit": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_(2).jpg"
+  },
+  "JFK": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/New_York_City",
+    "credit": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  "BOS": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/960px-ISH_WC_Boston4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Boston",
+    "credit": "https://commons.wikimedia.org/wiki/File:ISH_WC_Boston4.jpg"
+  },
+  "LAX": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/960px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Los_Angeles",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg"
+  },
+  "SFO": {
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/960px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/San_Francisco",
+    "credit": "https://commons.wikimedia.org/wiki/File:Zeppelin-ride-020100925-195_(5029394846).jpg"
+  }
+}
